@@ -1,0 +1,16 @@
+{
+  "wheel_id": 9,
+  "slug": "melbourne-east-kitchen-renovations-mr-101",
+  "project": "kitchen-design-eastern-suburbs-melbourne-guide",
+  "parent_t1_ref": "melbourne-east-kitchen-renovations-mr-150",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen design eastern suburbs melbourne",
+  "intended_url": "https://kitchen-design-eastern-suburbs-melbourne-guide.vercel.app",
+  "links": [
+    {
+      "target_url": "https://kitchen-renovation-melbourne-east-guide.netlify.app",
+      "anchor": "kitchen renovation melbourne east",
+      "rel": "follow"
+    }
+  ]
+}

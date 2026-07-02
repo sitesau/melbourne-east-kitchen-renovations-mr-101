@@ -1,0 +1,190 @@
+{
+  "kicker": "Kitchen Design Guide",
+  "h1_tail": "Layout Ideas for Eastern Homes",
+  "meta_hook": "layout, storage and style ideas for kitchens in the eastern suburbs",
+  "takeaway": "Good kitchen design in Melbourne's eastern suburbs balances the work triangle, storage volume and the natural light available in the room. Older homes in the area often have smaller, separate kitchens, while newer builds tend toward open-plan living, so the design approach depends on the house age and how the family uses the space. Starting with accurate measurements and a clear priority list keeps the design practical rather than purely visual. Once the design is settled, the next stage is the full renovation workflow covered in the related guide on kitchen renovation melbourne east.",
+  "lead_tail": "require a layout that suits both the house and the way the household cooks and entertains.",
+  "stats": [
+    {
+      "value": "3",
+      "label": "core work zones to plan"
+    },
+    {
+      "value": "100%",
+      "label": "custom designs measured on site"
+    },
+    {
+      "value": "5+",
+      "label": "storage systems to compare"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Design starts with the work triangle",
+      "html": "<p>The classic work triangle connects the sink, fridge and cooktop so that movement between them is short and unobstructed. In a compact kitchen this triangle is naturally tight, while in a larger kitchen the risk is that the distances become too long. A good designer checks the triangle first, then builds storage and preparation zones around it. The triangle is not a rigid rule, but it is a useful sanity check for any layout.</p><p>Many eastern suburbs homes were built with separate dining rooms and smaller kitchens. Opening the kitchen to the dining or living area can improve flow, but it also changes the structural layout and may require a beam or builder's input. The design should therefore be tested against both the existing walls and the budget before demolition begins. Knocking out a wall without knowing whether it is load-bearing is one of the fastest ways to blow a renovation budget.</p><p>Some homeowners prefer to keep the kitchen separate to contain cooking smells and noise. In that case, the design should make the most of the enclosed space with tall cabinets, deep drawers and efficient lighting. Either approach can work; the right answer depends on the house, the family and the budget.</p>"
+    },
+    {
+      "h2": "Storage that matches real habits",
+      "html": "<p>Cabinets, drawers, pantries and appliance nooks only work if they match how the household actually cooks. Deep drawers near the cooktop suit pots and pans, while a pull-out pantry keeps dry goods visible. Corner cupboards are common in older kitchens but can waste space unless they use a rotating carousel or pull-out shelf system.</p><p>Bench space is another critical factor. A kitchen with plenty of cabinets but only a narrow prep strip is frustrating to use. Designers often allow at least a metre of continuous bench beside the cooktop and another stretch near the sink. Appliance garages, which hide the kettle and toaster behind a lift-up door, can also free up valuable counter space in a compact kitchen.</p><p>For readers who want to move from design ideas into the full renovation workflow, the related guide on <a href=\"https://kitchen-renovation-melbourne-east-guide.netlify.app/\">kitchen renovation melbourne east</a> covers budgeting, trades and scheduling.</p>"
+    },
+    {
+      "h2": "Style and material choices",
+      "html": "<p>Material selection is where the kitchen's personality comes through. Benchtop options range from laminate and engineered stone to timber and concrete, each with different durability, maintenance and cost profiles. Cabinet doors, handles, splashback tiles and flooring all contribute to the final look, and they should be chosen together rather than as isolated decisions.</p><p>Colour choices also matter in older homes. A bright white kitchen can feel modern but may clash with original heritage details, while darker joinery can make a small room feel smaller. Sampling materials in the actual room, under its natural light, usually prevents expensive mistakes. Many suppliers offer small sample boards that can be taken home and viewed at different times of day.</p><p>Durability should be weighted alongside appearance. A benchtop that looks beautiful but stains easily will become a frustration. A splashback that is on trend but hard to clean will age poorly. The best kitchens are the ones that still look good and work well after five years of daily use.</p>"
+    },
+    {
+      "h2": "Lighting and ventilation",
+      "html": "<p>Natural light is a strong asset in Melbourne's eastern suburbs, where many blocks have established gardens. A good design captures that light through window placement, skylights or lighter finishes. Artificial lighting needs three layers: task lighting over benches, ambient lighting for the room, and accent lighting to highlight open shelves or feature splashbacks.</p><p>Ventilation is just as important. A quality rangehood removes cooking fumes, moisture and grease before they settle into cabinets or ceilings. Ducted rangehoods that exhaust to the outside are generally more effective than recirculating models, especially in kitchens that see heavy daily use. In a smaller kitchen, ventilation is even more critical because smells and moisture become concentrated quickly.</p><p>Window placement affects both light and ventilation. A kitchen with a window above the sink can use natural ventilation for much of the year, while an internal kitchen may need a more powerful mechanical system. These decisions should be made early, because they affect ductwork, electrical rough-in and cabinet design.</p>"
+    },
+    {
+      "h2": "Who this guide is for",
+      "html": "<p>This guide is for homeowners in Melbourne's eastern suburbs who are planning a kitchen design or redesign. It is useful for those working with a designer, those selecting their own materials, and anyone deciding whether to keep the existing layout or open the kitchen into the living space. The advice is general and should be confirmed against the specific measurements and conditions of the kitchen being renovated.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Kitchen layout comparison",
+    "headers": [
+      "Layout",
+      "Best for",
+      "Key trade-off"
+    ],
+    "rows": [
+      [
+        "Galley",
+        "Long narrow rooms",
+        "Efficient but can feel closed in"
+      ],
+      [
+        "L-shape",
+        "Corner spaces",
+        "Open corner needs clever storage"
+      ],
+      [
+        "U-shape",
+        "Medium-sized kitchens",
+        "Excellent bench space, may reduce flow"
+      ],
+      [
+        "Island",
+        "Open-plan areas",
+        "Needs floor space and possibly structural work"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the existing space",
+      "text": "Record walls, doors, windows, plumbing and electrical outlets before sketching a new layout."
+    },
+    {
+      "name": "Define the work triangle",
+      "text": "Position the sink, fridge and cooktop so movement between them is short and clear."
+    },
+    {
+      "name": "Plan storage by zone",
+      "text": "Group cookware, pantry items and appliances near where they are used most."
+    },
+    {
+      "name": "Select materials as a palette",
+      "text": "Choose benchtops, cabinets, splashbacks and flooring together to avoid clashing finishes."
+    },
+    {
+      "name": "Confirm lighting and ventilation",
+      "text": "Include task, ambient and accent lighting plus an externally ducted rangehood."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best kitchen layout for a small home?",
+      "a": "Galley and L-shape layouts are usually the most efficient in small kitchens because they keep the work triangle compact and leave floor space for movement."
+    },
+    {
+      "q": "How much bench space should a kitchen have?",
+      "a": "Designers typically allow at least one metre of continuous bench beside the cooktop and another usable stretch near the sink."
+    },
+    {
+      "q": "Should I design the kitchen before or after choosing appliances?",
+      "a": "It is best to choose appliance sizes early, because the cabinetry, plumbing and electrical layout are built around those dimensions."
+    }
+  ],
+  "about": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The classic work triangle connects the sink, fridge and cooktop.",
+      "source": "money page"
+    },
+    {
+      "claim": "Older homes in the eastern suburbs often have smaller, separate kitchens while newer builds tend toward open-plan living.",
+      "source": "money page"
+    },
+    {
+      "claim": "Deep drawers near the cooktop suit pots and pans, while a pull-out pantry keeps dry goods visible.",
+      "source": "money page"
+    },
+    {
+      "claim": "Ducted rangehoods that exhaust to the outside are generally more effective than recirculating models.",
+      "source": "money page"
+    },
+    {
+      "claim": "Lighting needs three layers: task, ambient and accent lighting.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers kitchen layout, storage, materials, lighting and ventilation for homeowners in Melbourne's eastern suburbs."
+}
